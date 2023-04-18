@@ -18,7 +18,7 @@
 ## Screnshot
 
 ![Mobile Small](./wl1_scr1.JPG)
-![Mobile Large](./wl2_scr2.JPG)
+![Mobile Large](./wl1_scr2.JPG)
 ![Larger Screens](./wl1_scr3.JPG)
 
 
